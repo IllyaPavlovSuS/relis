@@ -1,0 +1,25 @@
+body{
+    background-color: #00673A;
+    color:white;
+}
+
+header{
+    background-color: #042F1E;
+}
+
+.shop{
+    background-color: #009C8A;
+    border:5px black;
+    width: 233px;
+    height: 261px;
+    border-radius:15px;
+}
+
+div{
+    margin-top: 61px;
+    margin-bottom: 50px;
+}
+
+h4{
+    margin:10px;
+}
