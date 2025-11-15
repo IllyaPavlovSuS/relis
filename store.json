@@ -1,27 +1,75 @@
 [
     {
-        "title": "cифончік 228 про макс улттра про",
+        "title": "iPhone 11 (Pro/Max)",
         "price": 228007,
         "image": ""
     },
         {
-        "title": "MACбургер(ноут)",
+        "title": "iPhone 12 (Pro/Max)",
         "price": 228007,
         "image":""
     },
         {
-        "title": "колонке от яблачка",
+        "title": "iPhone 13 (Pro/Max)",
         "price": 228007,
         "image":""
     },
         {
-        "title": "пк с алика",
+        "title": "iPhone 14 (Pro/Max)",
         "price": 228007,
         "image":""
     },
         {
-        "title": "дикарацьіеи",
+        "title": "iPhone 15 (Pro/Max)",
         "price": 228007,
+        "image":""
+    },
+            {
+        "title": "iPhone 16 (Pro/Max)",
+        "price": 228007,
+        "image":""
+    },
+            {
+        "title": "iPhone 17 (Pro/Max)",
+        "price": 228007,
+        "image":""
+    },
+
+            {
+        "title": "Козак",
+        "price": 9200,
+        "image":""
+    },
+            {
+        "title": "Гетьман",
+        "price": 12500,
+        "image": ""
+    },
+            {
+        "title": "Гуцул",
+        "price": 13400,
+        "image":""
+    },
+                {
+        "title": "Король",
+        "price": 14500,
+        "image":""
+    },
+                    {
+        "title": "Кобзар",
+        "price": 15500,
         "image":""
     }
+                        {
+        "title": "Отаман",
+        "price": 18500,
+        "image":""
+    }
+                            {
+        "title": "Чумак",
+        "price": 19500,
+        "image":""
+    }
+
+
 ]
