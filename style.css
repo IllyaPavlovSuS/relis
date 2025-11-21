@@ -5,6 +5,9 @@ body{
 
 header{
     background-color: #042F1E;
+    display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 .shop{
@@ -22,4 +25,41 @@ div{
 
 h4{
     margin:10px;
+}
+
+footer{
+    background-color: black;
+}
+
+.products-list{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.card img{
+ height: 300px;
+ width: fit-content;
+margin: 0 auto;
+}
+
+.card {
+width: 320px;
+border-radius: 20px;
+ 
+}
+
+.btn-primary{
+    background-color: #042F1E;
+}
+
+.nav-link {
+    color:antiquewhite;
+    font-size:30px;
+    font-weight: 600;
+}
+
+.logo{
+    width: 100px;
+    margin: 10px;
 }
