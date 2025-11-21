@@ -1,65 +1,68 @@
-body{
-    background-color: #00673A;
-    color:white;
+body {
+  background-color: #00673a;
+  color: white;
 }
 
-header{
-    background-color: #042F1E;
-    display: flex;
-    text-align: center;
-    align-items: center;
+header {
+  background-color: #042f1e;
+  display: flex;
+  text-align: center;
+  align-items: center;
 }
 
-.shop{
-    background-color: #009C8A;
-    border:5px black;
-    width: 233px;
-    height: 261px;
-    border-radius:15px;
+.shop {
+  background-color: #009c8a;
+  border: 5px black;
+  width: 233px;
+  height: 261px;
+  border-radius: 15px;
 }
 
-div{
-    margin-top: 61px;
-    margin-bottom: 50px;
+div {
+  margin-top: 61px;
+  margin-bottom: 50px;
 }
 
-h4{
-    margin:10px;
+h4 {
+  margin: 10px;
 }
 
-footer{
-    background-color: black;
+footer {
+  background-color: black;
 }
 
-.products-list{
-    display:flex;
-    flex-wrap: wrap;
-    gap: 40px;
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
 }
 
-.card img{
- height: 300px;
- width: fit-content;
-margin: 0 auto;
+.card img {
+  height: 300px;
+  width: fit-content;
+  margin: 0 auto;
 }
 
 .card {
-width: 320px;
-border-radius: 20px;
- 
+  width: 320px;
+  border-radius: 20px;
 }
 
-.btn-primary{
-    background-color: #042F1E;
+.btn-primary {
+  background-color: #042f1e;
 }
 
 .nav-link {
-    color:antiquewhite;
-    font-size:30px;
-    font-weight: 600;
+  color: antiquewhite;
+  font-size: 30px;
+  font-weight: 600;
 }
 
-.logo{
-    width: 100px;
-    margin: 10px;
+.logo {
+  width: 100px;
+  margin: 10px;
+}
+
+.order {
+  display: none;
 }
