@@ -1,75 +1,134 @@
 [
     {
-        "title": "iPhone 11 (Pro/Max)",
-        "price": 228007,
-        "image": ""
+        "title": "iPhone 11",
+        "price": 15999,
+        "description": "6.1'' LCD, A13 Bionic, подвійна камера 12 МП.",
+        "image": "https://i.moyo.ua/img/products/4524/70_1500.jpg"
     },
-        {
-        "title": "iPhone 12 (Pro/Max)",
-        "price": 228007,
-        "image":""
+    {
+        "title": "iPhone 11 Pro",
+        "price": 19999,
+        "description": "5.8'' OLED, A13 Bionic, потрійна камера 12 МП.",
+        "image": "https://cdn.comfy.ua/media/catalog/product/a/p/apple_iphone_11_pro_64gb_gold_1_.jpg"
     },
-        {
-        "title": "iPhone 13 (Pro/Max)",
-        "price": 228007,
-        "image":""
-    },
-        {
-        "title": "iPhone 14 (Pro/Max)",
-        "price": 228007,
-        "image":""
-    },
-        {
-        "title": "iPhone 15 (Pro/Max)",
-        "price": 228007,
-        "image":""
-    },
-            {
-        "title": "iPhone 16 (Pro/Max)",
-        "price": 228007,
-        "image":""
-    },
-            {
-        "title": "iPhone 17 (Pro/Max)",
-        "price": 228007,
-        "image":""
+    {
+        "title": "iPhone 11 Pro Max",
+        "price": 22999,
+        "description": "6.5'' OLED, A13 Bionic, збільшена батарея.",
+        "image": "https://apple-people.com.ua/content/images/18/1800x1800l80bc50/apple-iphone-11-pro-max-space-grey-64gb-mwhd2-original-71185578180317.jpg"
     },
 
-            {
-        "title": "Козак",
-        "price": 9200,
-        "image":""
+    {
+        "title": "iPhone 12",
+        "price": 21499,
+        "description": "6.1'' OLED, A14 Bionic, підтримка 5G.",
+        "image": "https://yellow.ua/media/catalog/product/cache/9/image/600x600/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_12_64gb_white_1.jpg"
     },
-            {
-        "title": "Гетьман",
-        "price": 12500,
-        "image": ""
+    {
+        "title": "iPhone 12 Pro",
+        "price": 25999,
+        "description": "6.1'' OLED, LiDAR, потрійна камера.",
+        "image": "https://www.ispot.com.ua/image/cache/catalog/import_files/74/740398dec76d11eb97902c4d5459a249_a80153f7c79111eb97902c4d5459a249-700x700.jpg"
     },
-            {
-        "title": "Гуцул",
-        "price": 13400,
-        "image":""
+    {
+        "title": "iPhone 12 Pro Max",
+        "price": 28999,
+        "description": "6.7'' OLED, покращена стабілізація камери.",
+        "image": "https://www.ispot.com.ua/image/cache/catalog/import_files/87/87c5b5a8c76c11eb97902c4d5459a249_d0c58982c79111eb97902c4d5459a249-700x700.jpg"
     },
-                {
-        "title": "Король",
-        "price": 14500,
-        "image":""
+
+    {
+        "title": "iPhone 13",
+        "price": 25999,
+        "description": "6.1'' OLED, A15 Bionic, покращана камера.",
+        "image": "https://bigmag.ua/image/cache/catalog/image/Product/Apple_iPhone_BY/iPhone_13_by/Apple%20iPhone%2013%20256GB%20Green%20MNGE3/3207787055-2000x2000.jpg"
     },
-                    {
-        "title": "Кобзар",
-        "price": 15500,
-        "image":""
+    {
+        "title": "iPhone 13 Pro",
+        "price": 31999,
+        "description": "120Hz ProMotion, LiDAR, потрійна камера.",
+        "image": "https://www.ispot.com.ua/image/cache/catalog/import_files/ec/ecfcc2af664711ec979f2c4d5459a249_879fb90d670f11ec979f2c4d5459a249-700x700.jpg"
     },
-                        {
-        "title": "Отаман",
-        "price": 18500,
-        "image":""
+    {
+        "title": "iPhone 13 Pro Max",
+        "price": 34999,
+        "description": "6.7'' OLED, топова камера та акумулятор.",
+        "image": "https://hotline.ua/img/tx/298/298912231_s265.jpg"
     },
-                            {
-        "title": "Чумак",
-        "price": 19500,
-        "image":""
+
+    {
+        "title": "iPhone 14",
+        "price": 29999,
+        "description": "6.1'' OLED, A15 Bionic, нова фронтальна камера.",
+        "image": "https://cdn.comfy.ua/media/catalog/product/u/a/uaua_iphone14_starlight_pdp_image_position-1a_2.jpg"
+    },
+    {
+        "title": "iPhone 14 Pro",
+        "price": 38999,
+        "description": "Dynamic Island, A16 Bionic, 48 МП камера.",
+        "image": "https://macsstore.com.ua/23044-thickbox_default/apple-iphone-14-pro-max-256gb-silver.jpg"
+    },
+    {
+        "title": "iPhone 14 Pro Max",
+        "price": 41999,
+        "description": "6.7'' OLED, максимальна автономність.",
+        "image": "https://dzvinok.ua/pub/media/catalog/product/cache/0940dbeaa525ae9ef67299dfbda6a8bb/a/p/apple_iphone_14_pro_max_256gb_deep_purple_orig1.jpg"
+    },
+
+    {
+        "title": "iPhone 15",
+        "price": 33999,
+        "description": "A16 Bionic, USB-C, 48 МП головна камера.",
+        "image": "https://bigmag.ua/image/cache/catalog/image/Product/Apple_iPhone_New/iPhone_15/Apple%20iPhone%2015%20128GB%20Blue/iphone_15_plus_blue-500x500.jpg"
+    },
+    {
+        "title": "iPhone 15 Pro",
+        "price": 44999,
+        "description": "A17 Pro, титановий корпус, 120Hz.",
+        "image": "https://mcstore.com.ua/image/cache/catalog/xMU7E3-1694800029-170x170.jpg.pagespeed.ic.CcIUD6JihV.jpg"
+    },
+    {
+        "title": "iPhone 15 Pro Max",
+        "price": 49999,
+        "description": "Тетраперископ 5×, найбільший акумулятор.",
+        "image": "https://bigmag.ua/image/cache/catalog/image/Product/Apple_iPhone_New/iPhone_15_Pro_Max/blue-2000x2000.jpg"
+    },
+
+    {
+        "title": "iPhone 16",
+        "price": 37999,
+        "description": "Покращене охолодження, нова 48 МП селфі-камера.",
+        "image": "https://estore.ua/ua/media/catalog/product/cache/9/image/650x650/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-16_11__2.jpeg"
+    },
+    {
+        "title": "iPhone 16 Pro",
+        "price": 51999,
+        "description": "A18 Pro, AI-функції, 120Hz OLED.",
+        "image": "https://img.jabko.ua/image/cache/catalog/products/2024/09/092242/pr-mx-11-1397x1397.jpg"
+    },
+    {
+        "title": "iPhone 16 Pro Max",
+        "price": 57999,
+        "description": "Найпотужніша камера та батарея у лінійці.",
+        "image": "https://bigmag.ua/image/cache/catalog/image/Product/iPhone%2016%20Pro%20Max/iPhone%2016%20Pro%20Max%20Black%20Titanium/1.1-2000x2000.jpg"
+    },
+
+    {
+        "title": "iPhone 17",
+        "price": 42999,
+        "description": "Новий дизайн, покращена автономність, A19 Bionic.",
+        "image": "https://cdn.comfy.ua/media/catalog/product/i/p/iphone_17_mist_blue_pdp_image_position_1__ce-ww.jpg"
+    },
+    {
+        "title": "iPhone 17 Pro",
+        "price": 57999,
+        "description": "120Hz micro-OLED, нові AI-можливості.",
+        "image": "https://www.ispot.com.ua/image/cache/catalog/import_files/ae/ae1c7a3481b011f0985522024d064ca1_c8855b918e2e11f0985522024d064ca1-700x700.jpg"
+    },
+    {
+        "title": "iPhone 17 Pro Max",
+        "price": 63999,
+        "description": "Топові характеристики, професійна камера.",
+        "image": "https://cdn.newtime.ua/upload/2025-09/apple-iphone-17-pro-max-256gb-cosmic-orange-2.webp"
     }
-
-
 ]

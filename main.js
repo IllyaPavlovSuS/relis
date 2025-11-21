@@ -9,12 +9,13 @@ async function getProducts() {
 };
 
 function getCardHTML(product) {
-  return `<div class="card" style="width: 18rem;">
-  <img src="/${product.image}" class="card-img-top" alt="...">
+  return `<div class="card" >
+  <img src="${product.image}" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">${product.title}</h5>
-    <p class="card-text">${product.price}</p>
-    <a href="#" class="btn btn-primary" data-product='${JSON.stringify(product)}'>купит прадукт</a>
+     <p class="card-text">${product.description} грн</p>
+    <p class="card-text">${product.price} грн</p>
+    <a href="#" class="btn btn-primary" data-product='${JSON.stringify(product)}'>Додати в кошик</a>
   </div>
 </div>`
 }
